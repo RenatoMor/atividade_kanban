@@ -1,0 +1,22 @@
+Atividade - Kanban
+
+Entregar em formato de quadro Kanban as atividades para hospedar um site.
+
+1 A FAZER - 2 FAZENDO - 3 CONCLUÍDO
+
+A FAZER
+0 - Definira a Dupla
+1 - CRIAR CONTA NO 00WEBHOST     https://br.000webhost.com/
+
+2 - ESCOLHER UMA PÁGINA DESENVOLVIDA
+
+3 - FAZER A HOSPEDAGEM
+
+4 - ENVIAR ESTE QUADRO E O LINK DA  HOSPEDAGEM
+
+Scrum
+Product Backlog: hospedagem de um site
+Product Owner : "Cliente" - prof. Rolfi
+Scrum Team  : Vocês
+Release : "entregavel" - hospedagem do site.
+SPRINT - cada tarefa a ser realizada.
